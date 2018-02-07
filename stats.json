@@ -13,16 +13,16 @@
       "component---src-templates-blog-post-js-afbc05f291992bebb860.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e993bff7bdaf87b12cad.js",
-      "component---src-layouts-index-js-e993bff7bdaf87b12cad.js.map"
+      "component---src-layouts-index-js-55f4f87be728ec0de085.js",
+      "component---src-layouts-index-js-55f4f87be728ec0de085.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-d29d07eec6e6a0f3fe90.js",
-      "path---index-d29d07eec6e6a0f3fe90.js.map"
+      "path---index-d6ef819ebdc161de27dc.js",
+      "path---index-d6ef819ebdc161de27dc.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -39,17 +39,21 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---careers-b-2-b-manager-in-south-africa": [
-      "path---careers-b-2-b-manager-in-south-africa-f143a3b61dbea70cc5a6.js",
-      "path---careers-b-2-b-manager-in-south-africa-f143a3b61dbea70cc5a6.js.map"
+      "path---careers-b-2-b-manager-in-south-africa-a520ac70a9db524e4b7a.js",
+      "path---careers-b-2-b-manager-in-south-africa-a520ac70a9db524e4b7a.js.map"
+    ],
+    "path---careers-b-2-b-manager-in-south-africa-666": [
+      "path---careers-b-2-b-manager-in-south-africa-666-67cf18188f8b0c6f5ea8.js",
+      "path---careers-b-2-b-manager-in-south-africa-666-67cf18188f8b0c6f5ea8.js.map"
     ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-9032d5bc71f300853298.js",
       "component---src-pages-page-2-js-9032d5bc71f300853298.js.map"
     ],
     "app": [
-      "app-b2aaeca03d1cae959c2e.js",
+      "app-eb0958b6a4e9de00eb06.js",
       "build-js-styles.css",
-      "app-b2aaeca03d1cae959c2e.js.map",
+      "app-eb0958b6a4e9de00eb06.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
