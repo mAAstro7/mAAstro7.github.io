@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
-    "path---careers-b-2-b-manager-in-south-africa-55": [
-      "path---careers-b-2-b-manager-in-south-africa-55-de5dcd01ef5e89473c50.js",
-      "path---careers-b-2-b-manager-in-south-africa-55-de5dcd01ef5e89473c50.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-445480bac959a67f185d.js",
       "component---src-pages-index-js-445480bac959a67f185d.js.map"
+    ],
+    "path---b-2-b-manager-in-south-africa": [
+      "path---b-2-b-manager-in-south-africa-ca721e5953cd418bdcf5.js",
+      "path---b-2-b-manager-in-south-africa-ca721e5953cd418bdcf5.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -17,12 +17,16 @@
       "component---src-templates-blog-post-js-965ede76363dd0127c68.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-31b7319f68d5ebac6610.js",
-      "component---src-layouts-index-js-31b7319f68d5ebac6610.js.map"
+      "component---src-layouts-index-js-55f4f87be728ec0de085.js",
+      "component---src-layouts-index-js-55f4f87be728ec0de085.js.map"
+    ],
+    "path---b-2-b-manager-in-south-africa-55": [
+      "path---b-2-b-manager-in-south-africa-55-e00a07aa8410a5391b3a.js",
+      "path---b-2-b-manager-in-south-africa-55-e00a07aa8410a5391b3a.js.map"
     ],
     "path---index": [
-      "path---index-ad05b84878ee278d03aa.js",
-      "path---index-ad05b84878ee278d03aa.js.map"
+      "path---index-a2cb50f4db0e5fe2deea.js",
+      "path---index-a2cb50f4db0e5fe2deea.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -38,14 +42,10 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---careers-b-2-b-manager-in-south-africa": [
-      "path---careers-b-2-b-manager-in-south-africa-6794fb6c0fdcf0bd43bd.js",
-      "path---careers-b-2-b-manager-in-south-africa-6794fb6c0fdcf0bd43bd.js.map"
-    ],
     "app": [
-      "app-8cf7a32f03c0a957a636.js",
+      "app-6e4fa3009c365de5262a.js",
       "build-js-styles.css",
-      "app-8cf7a32f03c0a957a636.js.map",
+      "app-6e4fa3009c365de5262a.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
