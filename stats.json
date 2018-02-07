@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
+    "path---careers-b-2-b-manager-in-south-africa-55": [
+      "path---careers-b-2-b-manager-in-south-africa-55-de5dcd01ef5e89473c50.js",
+      "path---careers-b-2-b-manager-in-south-africa-55-de5dcd01ef5e89473c50.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-445480bac959a67f185d.js",
       "component---src-pages-index-js-445480bac959a67f185d.js.map"
-    ],
-    "path---b-2-b-manager-in-south-africa": [
-      "path---b-2-b-manager-in-south-africa-fbe91525790a642f915f.js",
-      "path---b-2-b-manager-in-south-africa-fbe91525790a642f915f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -21,8 +21,8 @@
       "component---src-layouts-index-js-31b7319f68d5ebac6610.js.map"
     ],
     "path---index": [
-      "path---index-d9b1547b227c41d8d110.js",
-      "path---index-d9b1547b227c41d8d110.js.map"
+      "path---index-ad05b84878ee278d03aa.js",
+      "path---index-ad05b84878ee278d03aa.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -38,14 +38,14 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---b-2-b-manager-in-south-africa-666": [
-      "path---b-2-b-manager-in-south-africa-666-9c140c9102ecd917af32.js",
-      "path---b-2-b-manager-in-south-africa-666-9c140c9102ecd917af32.js.map"
+    "path---careers-b-2-b-manager-in-south-africa": [
+      "path---careers-b-2-b-manager-in-south-africa-6794fb6c0fdcf0bd43bd.js",
+      "path---careers-b-2-b-manager-in-south-africa-6794fb6c0fdcf0bd43bd.js.map"
     ],
     "app": [
-      "app-eca4def833a5d5ed9f45.js",
+      "app-8cf7a32f03c0a957a636.js",
       "build-js-styles.css",
-      "app-eca4def833a5d5ed9f45.js.map",
+      "app-8cf7a32f03c0a957a636.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
