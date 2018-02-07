@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c6b38bbbde60351f29c8.js",
-      "component---src-pages-index-js-c6b38bbbde60351f29c8.js.map"
+      "component---src-pages-index-js-445480bac959a67f185d.js",
+      "component---src-pages-index-js-445480bac959a67f185d.js.map"
     ],
     "path---b-2-b-manager-in-south-africa": [
       "path---b-2-b-manager-in-south-africa-fbe91525790a642f915f.js",
@@ -13,16 +13,12 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-afbc05f291992bebb860.js",
-      "component---src-templates-blog-post-js-afbc05f291992bebb860.js.map"
+      "component---src-templates-blog-post-js-965ede76363dd0127c68.js",
+      "component---src-templates-blog-post-js-965ede76363dd0127c68.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-55f4f87be728ec0de085.js",
-      "component---src-layouts-index-js-55f4f87be728ec0de085.js.map"
-    ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+      "component---src-layouts-index-js-31b7319f68d5ebac6610.js",
+      "component---src-layouts-index-js-31b7319f68d5ebac6610.js.map"
     ],
     "path---index": [
       "path---index-d9b1547b227c41d8d110.js",
@@ -33,9 +29,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-33209d3a2b8236f186b8.js",
+      "commons-68aad81503ae45628ade.js",
       "build-js-styles.css",
-      "commons-33209d3a2b8236f186b8.js.map",
+      "commons-68aad81503ae45628ade.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -46,14 +42,10 @@
       "path---b-2-b-manager-in-south-africa-666-9c140c9102ecd917af32.js",
       "path---b-2-b-manager-in-south-africa-666-9c140c9102ecd917af32.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-9032d5bc71f300853298.js",
-      "component---src-pages-page-2-js-9032d5bc71f300853298.js.map"
-    ],
     "app": [
-      "app-fa45f603b87800096840.js",
+      "app-eca4def833a5d5ed9f45.js",
       "build-js-styles.css",
-      "app-fa45f603b87800096840.js.map",
+      "app-eca4def833a5d5ed9f45.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
